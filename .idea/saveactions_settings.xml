@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="activateOnBatch" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+        <option value="rearrange" />
+        <option value="executeAction" />
+      </set>
+    </option>
+    <option name="configurationPath" value="" />
+    <option name="quickLists">
+      <list>
+        <option value="1535817205" />
+      </list>
+    </option>
+  </component>
+</project>

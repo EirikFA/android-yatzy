@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="GenericFormControl">
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+
+    <style name="YatzyCell">
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/black_border_right_bottom</item>
+    </style>
+
+    <style name="YatzyNameCell" parent="YatzyCell">
+        <item name="android:background">@drawable/black_border_top_right_bottom</item>
+    </style>
+
+    <style name="YatzyCombinationCell" parent="YatzyCell">
+        <item name="android:background">@drawable/black_border_left_bottom_right</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="yatzy_cell_width">74dp</dimen>
+    <dimen name="yatzy_combination_cell_width">104dp</dimen>
+</resources>

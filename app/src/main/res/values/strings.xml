@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yatzy</string>
+
+    <!-- Setup game -->
+    <string name="setup_game">Setup game</string>
+    <string name="variation">Variation</string>
+    <string name="forced">Forced</string>
+    <string name="maxi">Maxi Yatzy</string>
+    <string name="players">Players</string>
+    <string name="player_name">Player name</string>
+    <string name="add_player">Add another player</string>
+    <string name="remove_player">Remove player</string>
+    <string name="start_game">Start game</string>
+    <string name="not_enough_players">Not enough players</string>
+    <string name="min_players">At least two players are required to play</string>
+    <string name="add_players">Add more players</string>
+
+    <string name="player_edit_tag">player_name</string>
+
+    <!-- Game -->
+    <string name="calculate">Calculate</string>
+</resources>
